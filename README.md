@@ -17,6 +17,28 @@ The objective is to compare the predictive performance of various machine learni
 * To compare predictive performance across BSE and NSE
 * To provide an integrated framework combining price forecasting and volatility modeling
 
+## Closing Price Trends (2020–2025)
+<img width="975" height="414" alt="image" src="https://github.com/user-attachments/assets/cd3e7bed-4254-4788-851f-635e63e1fed8" />
+
+## RMSE Heatmap: Company & Exchange vs Models
+<img width="975" height="456" alt="image" src="https://github.com/user-attachments/assets/3adde80e-c60b-4c36-94cb-7ff6022a3344" />
+
+## R² Heatmap: Company & Exchange vs Models
+<img width="975" height="458" alt="image" src="https://github.com/user-attachments/assets/a0f7fb6b-3680-4f3b-9830-806a6a70eaf5" />
+
+## TCS BSE and NSE – SARIMA (Train / Validation / Test + 60-Day Forecast)
+<img width="556" height="236" alt="image" src="https://github.com/user-attachments/assets/9bd78460-d35f-4c53-803a-f69b3282badd" />
+<img width="556" height="236" alt="image" src="https://github.com/user-attachments/assets/12dd138c-3da2-40d8-b455-cfad777ee654" />
+
+
+
+
+
+
+
+
+
+
 ## Companies Analyzed
 
 The study focuses on four large-cap Indian companies representing key economic sectors:
